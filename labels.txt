@@ -1,0 +1,4 @@
+0 Zorro Rojo
+1 Zorro Artico
+2 Zorro de bengala
+3 Zorro gris
